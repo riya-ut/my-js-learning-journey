@@ -1,0 +1,1 @@
+document.write("Javascript first example in external file. ")
